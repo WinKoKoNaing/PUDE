@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">PUDE SMS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">212291633009276</string>
+    <string name="fb_login_protocol_scheme">fb212291633009276</string>
+
+
+    <string-array name="majorList">
+        <item>သခၤ်ာေမဂ်ာ</item>
+        <item>ရူပေမဂ်ာ</item>
+        <item>Zoology ေမဂ်ာ</item>
+        <item>Botany ေမဂ်ာ</item>
+        <item>ပထဝီ ေမဂ်ာ</item>
+        <item>Law ေမဂ်ာ</item>
+        <item>English ေမဂ်ာ</item>
+        <item>သတၱေဗဒ ေမဂ်ာ</item>
+        <item>ဒသနိက ေမဂ်ာ</item>
+        <item>စိတ္ ပညာ ေမဂ်ာ</item>
+        <item>အေရွ႕တိုင္း ေမဂ်ာ</item>
+        <item>ျမန္မာ ေမဂ်ာ</item>
+        <item>စီးပြားေရး ေမဂ်ာ</item>
+        <item>စီးပြားစီမံ ေမဂ်ာ</item>
+        <item>သမိုင္းေမဂ်ာ</item>
+        <item>ဓာတု ေမဂ်ာ</item>
+    </string-array>
+    <string-array name="startMajorName">
+        <item>M</item>
+        <item>P</item>
+        <item>C</item>
+        <item>Z</item>
+        <item>B</item>
+        <item>M</item>
+        <item>L</item>
+        <item>E</item>
+        <item>T</item>
+        <item>M</item>
+        <item>E</item>
+        <item>B</item>
+        <item>B</item>
+        <item>H</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="majorCodes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+
+    </string-array>
+
+
+</resources>

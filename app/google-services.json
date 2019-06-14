@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798386490489",
+    "firebase_url": "https://pude-d7e8c.firebaseio.com",
+    "project_id": "pude-d7e8c",
+    "storage_bucket": "pude-d7e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798386490489:android:89101ebd1baabcf1",
+        "android_client_info": {
+          "package_name": "com.porlar.techhousestudio.pude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798386490489-j5im1qsadkq39317mt93o5nu5fhqp96t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.porlar.techhousestudio.pude",
+            "certificate_hash": "c6f9e7f013eaed2b11db96906d3d56500fb51159"
+          }
+        },
+        {
+          "client_id": "798386490489-a1l4sf1b0euij28jruntq3rf701j36pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKf2B-f-s1VSVA4ZBik_I8wKOeQCCW6bc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798386490489-a1l4sf1b0euij28jruntq3rf701j36pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

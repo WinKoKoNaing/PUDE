@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choose Major"
+            android:textColor="@android:color/white"
+            android:gravity="center_horizontal"
+            android:background="@color/colorPrimary"
+            android:padding="16dp"/>
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+            <RadioButton
+                android:id="@+id/rbZero"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="သခၤ်ာေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textIsSelectable="true"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbOne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ရူပေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbTwo"
+                android:textSize="@dimen/mediumSize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Zoology ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+
+            <RadioButton
+                android:id="@+id/rbThree"
+                android:textSize="@dimen/mediumSize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:text="Botany ေမဂ်ာ"
+                android:textColor="@color/colorPrimary" />
+            <RadioButton
+                android:id="@+id/rbFour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ပထဝီ ေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbFive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Law ေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbSix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="English ေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbSeven"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="သတၱေဗဒ ေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbEight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ဒသနိက ေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:layout_marginBottom="3dp"/>
+
+
+
+
+
+
+            <RadioButton
+                android:id="@+id/rbNine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="စိတ္ ပညာ ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rbTen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="အေရွ႕တိုင္း ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rb11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ျမန္မာ ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rb12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="စီးပြားေရး ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+
+            <RadioButton
+                android:id="@+id/rb13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="စီးပြားစီမံ ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rb14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="သမိုင္းေမဂ်ာ"
+                android:textSize="@dimen/mediumSize"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:layout_marginBottom="3dp"/>
+            <RadioButton
+                android:id="@+id/rb15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ဓာတု ေမဂ်ာ"
+                android:textColor="@color/colorPrimary"
+                android:checked="true"
+                android:textSize="@dimen/mediumSize"
+                android:layout_marginBottom="3dp"/>
+
+        </RadioGroup>
+    </LinearLayout>
+</ScrollView>

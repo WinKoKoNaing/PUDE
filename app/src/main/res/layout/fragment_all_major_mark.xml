@@ -1,0 +1,29 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <GridView
+        android:id="@+id/rvMajorList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:horizontalSpacing="5dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:padding="5dp"
+        android:clipToPadding="false"
+        android:scrollbars="none"
+        android:verticalSpacing="5dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </GridView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="PUDE Admins"
+        android:typeface="monospace"
+        android:textColor="#fff"
+        android:background="@color/colorPrimary"
+        android:textStyle="bold"
+        android:padding="10dp"
+
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/tvHZ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Hein Zaw"
+        android:background="@drawable/ripple_effect"
+        android:textStyle="bold"
+        android:padding="10dp"
+
+        android:textSize="20sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+    <TextView
+        android:id="@+id/tvHAK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/ripple_effect"
+        android:text="Htet Ak"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+    <TextView
+    android:id="@+id/tvKHN"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:background="@drawable/ripple_effect"
+    android:gravity="center"
+    android:text="Kyaw Htut Naing"
+    android:textStyle="bold"
+    android:padding="10dp"
+    android:textSize="20sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+    <TextView
+        android:id="@+id/tvPAK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ripple_effect"
+        android:gravity="center"
+        android:text="Phyo Arkar"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+</LinearLayout>
